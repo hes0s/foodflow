@@ -262,3 +262,8 @@ body {
     flex-direction: column;
     gap: 4px;
 }
+
+.offer-card:hover {
+    transform: translateY(-2px);
+    transition: transform 0.2s ease;
+}
