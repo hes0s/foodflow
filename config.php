@@ -7,3 +7,4 @@ define('DEFAULT_DISCOUNT', 50); // Procent reducere standard (%)
 define('CURRENCY', 'MDL');
 define('CONTACT_EMAIL', 'contact@foodflow.md');
 define('CITY', 'Chișinău');
+define('CONTACT_PHONE', '+373 60 123 456');
