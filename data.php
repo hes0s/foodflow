@@ -60,7 +60,7 @@ $offers = [
 
 // Statistici impact anti-risipă
 $stats = [
-    'meals_saved' => 1240,
+    'meals_saved' => 1500,
     'co2_saved_kg' => 3100,
     'partners_count' => 18
 ];
