@@ -8,3 +8,5 @@ define('CURRENCY', 'MDL');
 define('CONTACT_EMAIL', 'contact@foodflow.md');
 define('CITY', 'Chișinău');
 define('CONTACT_PHONE', '+373 60 123 456');
+define('MAX_RESERVATIONS_PER_USER', 3);
+define('LAST_HOUR_DISCOUNT', 65);
