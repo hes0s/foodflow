@@ -56,7 +56,7 @@ require_once __DIR__ . '/header.php';
 
     <!-- Filtru Categorii -->
     <section class="filter-bar">
-        <span>Filtrează ofertele serii:</span>
+        <span>Filtrează ofertele serii (Maxim <?= MAX_RESERVATIONS_PER_USER ?> pachete/client):</span>
         <div class="filter-buttons">
             <?php foreach ($categories as $cat): ?>
                 <a href="?categorie=<?= urlencode($cat) ?>"
