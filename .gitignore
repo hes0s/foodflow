@@ -1,4 +1,16 @@
-*.log
-*.tmp
+# Fisiere de configurare locale
+*.local.php
+*.local.ini
 .env
+
+# Fisiere temporare
+*.tmp
+*.bak
+
+# Fisiere log
+*.log
+
+# Directoare generate automat
 cache/
+logs/
+build/
